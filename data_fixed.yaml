@@ -1,0 +1,14 @@
+path: C:\Users\nidhi\Downloads\Deep Learning Project\Solar_panel
+train: C:\Users\nidhi\Downloads\Deep Learning Project\Solar_panel\ImageSet\train\images
+val: C:\Users\nidhi\Downloads\Deep Learning Project\Solar_panel\ImageSet\valid\images
+test: C:\Users\nidhi\Downloads\Deep Learning Project\Solar_panel\ImageSet\test\images
+nc: 8
+names:
+- MultiByPassed
+- MultiDiode
+- MultiHotSpot
+- SingleByPassed
+- SingleDiode
+- SingleHotSpot
+- StringOpenCircuit
+- StringReversedPolarity

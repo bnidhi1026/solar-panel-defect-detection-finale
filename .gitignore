@@ -1,0 +1,6 @@
+ImageSet/ 
+*.zip 
+runs/solar_panel_train2/ 
+runs/solar_panel_train3/ 
+.ipynb_checkpoints/ 
+*.pt 
